@@ -1,0 +1,4 @@
+# Ignore specific Python files
+app.py
+chat.py
+model.py
